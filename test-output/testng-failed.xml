@@ -8,6 +8,7 @@
           <include name="sidraTitleTest"/>
           <include name="setUp"/>
           <include name="tearDown"/>
+          <include name="ssidraTitleTest"/>
         </methods>
       </class> <!-- AzureTestPackage.AzureTest -->
     </classes>
